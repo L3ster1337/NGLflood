@@ -1,10 +1,8 @@
 import requests
-import time  # Importar o módulo time
+import time
 
-# Defina o URL para o qual a requisição será enviada
 url = 'https://ngl.link/api/submit'
 
-# Defina os cabeçalhos da requisição
 headers = {
     'Host': 'ngl.link',
     'Cookie': '< All Cookies here >' // YOU MAY EDIT THIS PART
