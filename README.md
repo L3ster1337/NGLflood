@@ -1,7 +1,8 @@
-# NGL Flooder
+# NGL Flood
 
 <p align="center">
   <img src="img/img.jpeg" width="300" height="300">
+  <br>
   <i>Oh my freaking inbox, mf</i>
 </p>
 
@@ -17,6 +18,6 @@ Change your anonymous cookie and user to flood, adjusting time.sleep(n) accordin
 
 5. Run it
 ```
-python3 NGLflooder.py
+python3 NGLflood.py
 ```
 You can add arguments to make the process more dynamic, but I don't want to ^^
