@@ -18,6 +18,6 @@ Change your anonymous cookie and user to flood, adjusting time.sleep(n) accordin
 
 5. Run it
 ```
+pip3 install -r requirements.txt
 python3 NGLflood.py
 ```
-You can add arguments to make the process more dynamic, but I don't want to ^^
